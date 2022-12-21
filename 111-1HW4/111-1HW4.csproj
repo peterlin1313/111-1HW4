@@ -86,7 +86,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="answer.md" />
     <None Include="packages.config" />
     <Content Include="readme.md" />
     <None Include="Web.Debug.config">
